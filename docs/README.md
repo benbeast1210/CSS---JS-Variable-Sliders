@@ -8,4 +8,6 @@
 > user makes are displayed back to them in real time. Using SASS, one may also give the user control to edit elements, however these changes are only
 > visually apparent after compiling. Using JS inside of the CSS makes for a much smoother UX.
 
+> This is based on the project from [JavaScript30](https://javascript30.com/) by [Wes Bos](https://twitter.com/wesbos?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
 
