@@ -7,3 +7,5 @@
 > user the ability to change certain CSS elements on a given page. The primary advantage to implementing the scripting within the CSS is that the changes a
 > user makes are displayed back to them in real time. Using SASS, one may also give the user control to edit elements, however these changes are only
 > visually apparent after compiling. Using JS inside of the CSS makes for a much smoother UX.
+
+
